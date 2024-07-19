@@ -1,5 +1,4 @@
 ## Hi there 👋
-===============================
 
 *   🖥️  I'm Farzad (/færzɑd/), a frontend developer.
 *   🚀  I'm currently working on [my market](https://)

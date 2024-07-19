@@ -1,9 +1,7 @@
 ## Hi there 👋
-
-My name is Farzad /færzɑd/
 ===============================
 
-*   🖥️  I'm Farzad, a frontend developer.
+*   🖥️  I'm Farzad (/færzɑd/), a frontend developer.
 *   🚀  I'm currently working on [my market](https://)
 
 

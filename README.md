@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 *   🖥️  I'm Farzad (/færzɑd/).
-*   🚀  I'm currently working on [my market](https://)
 
 
                   
